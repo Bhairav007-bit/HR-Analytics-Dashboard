@@ -84,12 +84,13 @@ The **HR Analytics Dashboard** is a comprehensive business intelligence solution
 
 ## 👨‍💻 Author
 
-**Pranav Dev J**  
-Data Analyst | Power BI Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/pranav-dev-j-7610972a9/) • [GitHub](https://github.com/yourusername)
+**BHAIRAV S**  
+
+[LinkedIn](https://www.linkedin.com/in/bhairav-suresh-51703a379/) • [GitHub](https://github.com/Bhairav007-bit)
 
 ---
 
 ## 🙌 Acknowledgements
 
 Special thanks to the creators of open HR datasets and the Power BI community for continuous learning and support.
+
